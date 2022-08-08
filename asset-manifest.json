@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.27002005.js",
-    "index.html": "/index.html",
-    "main.27002005.js.map": "/static/js/main.27002005.js.map"
+    "main.js": "/react-financas/static/js/main.5019c6d3.js",
+    "index.html": "/react-financas/index.html",
+    "main.5019c6d3.js.map": "/react-financas/static/js/main.5019c6d3.js.map"
   },
   "entrypoints": [
-    "static/js/main.27002005.js"
+    "static/js/main.5019c6d3.js"
   ]
 }
