@@ -1,8 +1,8 @@
-# Controle Financeiro em React
+# 💰 Projeto de Controle Financeiro em React 💸
 
-Bem-vindo à documentação do projeto de Controle Financeiro em React! Esta aplicação web permite aos usuários gerenciar suas finanças pessoais, controlar receitas e despesas, criar orçamentos e visualizar relatórios detalhados.
+### Bem-vindo à documentação do projeto de Controle Financeiro em React! Esta aplicação web permite aos usuários gerenciar suas finanças pessoais, controlar receitas e despesas, criar orçamentos e visualizar relatórios detalhados.
 
-## Instalação
+## 🚀 Instalação
 
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente local:
 
@@ -21,8 +21,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
    
 4. Acesse a aplicação em seu navegador: http://localhost:3000
 
-**Funcionalidades Principais**
-O projeto de Controle Financeiro em React oferece as seguintes funcionalidades principais:
+## **📋 Funcionalidades Principais**
+### O projeto de Controle Financeiro em React oferece as seguintes funcionalidades principais:
 
 1. Dashboard: Exibe um resumo visual das finanças, incluindo saldo atual, gráficos de receitas e despesas.
 
