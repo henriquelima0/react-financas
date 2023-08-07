@@ -9,7 +9,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/controle-financeiro-react.git
+   git clone https://github.com/henriquelima0/react-financas.git
 
 2. Instale as dependências:
    ```bash
@@ -18,4 +18,19 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 3. Inicie o servidor de desenvolvimento:
    ```bash
    npm start
+   
 4. Acesse a aplicação em seu navegador: http://localhost:3000
+
+**Funcionalidades Principais**
+O projeto de Controle Financeiro em React oferece as seguintes funcionalidades principais:
+
+1. Dashboard: Exibe um resumo visual das finanças, incluindo saldo atual, gráficos de receitas e despesas.
+
+2. Transações: Permite ao usuário adicionar, editar e excluir transações, especificando o tipo (receita ou despesa), categoria e valor.
+
+3. Orçamentos: Os usuários podem criar orçamentos mensais para diferentes categorias e monitorar o progresso.
+
+4. Relatórios: Gera relatórios detalhados sobre o histórico de transações, fornecendo insights sobre os padrões de gastos.
+
+
+
